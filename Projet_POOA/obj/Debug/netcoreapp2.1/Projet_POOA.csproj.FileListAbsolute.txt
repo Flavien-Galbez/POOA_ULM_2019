@@ -1,0 +1,11 @@
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.csprojAssemblyReference.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\bin\Debug\netcoreapp2.1\Projet_POOA.deps.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\bin\Debug\netcoreapp2.1\Projet_POOA.runtimeconfig.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\bin\Debug\netcoreapp2.1\Projet_POOA.runtimeconfig.dev.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\bin\Debug\netcoreapp2.1\Projet_POOA.dll
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\bin\Debug\netcoreapp2.1\Projet_POOA.pdb
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.dll
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\Projet_POOA\Projet_POOA\obj\Debug\netcoreapp2.1\Projet_POOA.pdb
